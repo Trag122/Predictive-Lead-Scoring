@@ -52,6 +52,6 @@ When sorting the evaluation dataset by predicted probability, the LightGBM model
 
 ## Author
 
-* **Nguyen Pham Quynh Trang** (Student ID: 22070276) 
+* **Nguyen Pham Quynh Trang**
 * **Major:** Fintech and Digital Business 
 * **Institution:** VNU International School
