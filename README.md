@@ -55,3 +55,4 @@ When sorting the evaluation dataset by predicted probability, the LightGBM model
 * **Nguyen Pham Quynh Trang**
 * **Major:** Fintech and Digital Business 
 * **Institution:** VNU International School
+@All Rights Reserved.
