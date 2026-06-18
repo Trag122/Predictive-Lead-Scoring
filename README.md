@@ -50,9 +50,9 @@ After comparing the four models, **LightGBM** was selected as the optimal model 
 
 When sorting the evaluation dataset by predicted probability, the LightGBM model achieved a **Precision@50 of 86%**. This indicates that actions taken on the Top 50 individuals prioritized by the model will hit the actual target 86% of the time.
 
-## Author
-
+## Author 
+@All Rights Reserved.
 * **Nguyen Pham Quynh Trang**
 * **Major:** Fintech and Digital Business 
 * **Institution:** VNU International School
-@All Rights Reserved.
+
